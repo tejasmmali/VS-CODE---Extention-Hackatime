@@ -14,7 +14,9 @@ Show your Hackatime streak directly in the VS Code status bar.
 <br>
 
 2. Enter your Hackatime username
+- To Get Your Username - https://hackatime.hackclub.com/my/settings/profile#user_username
 <br>
+
 ![test image](images/screenshot-2026-04-29-151134.png)
 
 3. View streak in popup and status bar
