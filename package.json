@@ -2,7 +2,7 @@
   "name": "hackatime-stats",
   "displayName": "Hackatime Stats",
   "description": "Show your Hackatime coding streak in the status bar",
-  "icon": "images/HACKATIME STACTS.png",
+  "icon": "images/hackatime-stats.png",
   "version": "0.0.1",
   "publisher": "hackatime-stats",
   "repository": {
@@ -32,6 +32,7 @@
     "test": "echo \"No tests yet\""
   },
   "dependencies": {
+    "@vscode/vsce": "^3.9.1",
     "axios": "^1.15.2"
   },
   "devDependencies": {

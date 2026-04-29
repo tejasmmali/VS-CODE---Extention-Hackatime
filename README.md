@@ -10,12 +10,12 @@ Show your Hackatime streak directly in the VS Code status bar.
 
 ## Usage
 1. Run command `Hackatime: Show Streak`or you can click on this shown below <br><br>
-![test image](images/Screenshot%202026-04-29%20151340.png)
+![test image](images/screenshot-2026-04-29-151340.png)
 <br>
 
 2. Enter your Hackatime username
 <br>
-![test image](images/Screenshot%202026-04-29%20151134.png)
+![test image](images/screenshot-2026-04-29-151134.png)
 
 3. View streak in popup and status bar
 
@@ -30,8 +30,7 @@ Show your Hackatime streak directly in the VS Code status bar.
 ## This is some Images
 
 
-![test image](images/Screenshot%202026-04-29%20144441.png)
+![test image](images/screenshot-2026-04-29-144441.png)
 
-![test image](images/Screenshot%202026-04-29%20144422.png)
-
+![test image](images/screenshot-2026-04-29-144422.png)
 
