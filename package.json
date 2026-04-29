@@ -1,0 +1,41 @@
+{
+  "name": "hackatime-stats",
+  "displayName": "Hackatime Stats",
+  "description": "Show your Hackatime coding streak in the status bar",
+  "icon": "images/HACKATIME STACTS.png",
+  "version": "0.0.1",
+  "publisher": "hackatime-stats",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejasmmali/VS-CODE---Extention-Hackatime.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished",
+    "onCommand:hackatime-stats.showStats"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "hackatime-stats.showStats",
+        "title": "Hackatime: Show Streak"
+      }
+    ]
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "axios": "^1.15.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/vscode": "^1.80.0"
+  }
+}
